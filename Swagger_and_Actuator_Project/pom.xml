@@ -13,7 +13,7 @@
 	<artifactId>Swagger_and_Actuator_Project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Swagger_and_Actuator_Project</name>
-	<description>A sample project for Swagger and Actuator implementation</description>
+	<description>This spring boot project has the code demonstration for Swagger and Actuator implementations.</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
